@@ -1,0 +1,7 @@
+git clone git@github.com:Lilka1-1/Day_01.git
+git checkout -b develop_Kudrevtseva
+cd Day_01
+cd src
+touch Quest_1.command_history
+vim Quest_1.command_history
+
